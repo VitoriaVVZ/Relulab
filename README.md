@@ -31,11 +31,12 @@ Criar uma landing page completa contendo:
 ### Estrutura de Pastas
 
 ```text
-LANDING PAGE BIOLAB/
+RELULAB/
 ├── assets/
 │   ├── icons/
 │   └── images/
 ├── css/
+│   ├── global.css
 │   └── style.css
 └── index.html
 ```
